@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final HttpLink httpLink = HttpLink(
-      uri: 'http://192.168.0.30:4000/graphql',
+      uri: 'http://192.168.0.87:4000/graphql',
     );
 
     final AuthLink authLink = AuthLink(
