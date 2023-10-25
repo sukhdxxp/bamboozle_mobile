@@ -1,16 +1,38 @@
-# bamboozle_flutter
+# Bamboozle Flutter
 
-A new Flutter project.
+Bamboozle Flutter is the mobile version of the popular multiplayer quiz game, Bamboozle. Challenge your friends with tricky questions and witty answers right from your mobile device.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create or join game rooms and invite friends.
+- Select quiz categories for a customized gaming experience.
+- Craft clever and deceptive answers to fool your opponents.
+- Real-time multiplayer gameplay for on-the-go fun.
+- Keep track of your scores and compete for the top spot on the leaderboards.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Framework: Flutter
+- Backend: Firebase Realtime Database
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run Bamboozle Flutter locally, follow these steps:
+
+1. Clone this repository.
+2. Open the project in your preferred Flutter development environment.
+3. Run the app on an emulator or physical device.
+
+## Contributing
+
+We welcome contributions from the open-source community! If you have ideas, find issues, or want to make improvements to Bamboozle Flutter, please feel free to open issues and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Enjoy playing Bamboozle on your mobile device, and challenge your friends to a game of wits. If you have questions or suggestions, please don't hesitate to reach out.
+
+Happy gaming!
